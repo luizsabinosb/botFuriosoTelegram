@@ -3,7 +3,7 @@
 from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = '7762364247:AAFG4hSfpEM5f1fm73mr_W4GTSeYrhDOEGc'
+TOKEN = 'TOKEN_UTILIZADO_NO_BOT'
 
 # --- Menu principal ---
 def criar_menu():
